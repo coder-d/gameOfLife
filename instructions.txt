@@ -1,0 +1,5 @@
+Make the appropriate changes in config.php to make the application run in your server
+
+Address of website : line 4
+Game configs : line 10-17
+

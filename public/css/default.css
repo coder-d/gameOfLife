@@ -1,0 +1,23 @@
+body {
+text-align: center;
+  margin: 0;
+  padding: 0;
+  background: #f0f0f0;
+}
+a { 
+  color: #0BAADE;
+  text-decoration: none;
+  underline: 1px dotted #0BAADE;
+}
+
+a:hover {
+ color: #000000;
+ }
+
+
+
+
+
+
+
+
